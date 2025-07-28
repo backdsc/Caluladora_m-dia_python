@@ -1,4 +1,4 @@
-# Caluladora_m-dia_python
+# Caluladora_média_python
 🧮 Calculadora de Média Escolar – Projeto Inicial
 
 Esse projeto é uma calculadora simples de média de notas, feita em Python. A ideia inicial foi não deixar meu GitHub parado enquanto estudo e pratico.
